@@ -19,11 +19,11 @@ Features
 * Data activity test
 
 ----------
-Front:
+PCB Front View:
 
 ![USB Port Tester Front](pictures/USB_Port_Tester_Front_bw.png)
 
-Back:
+PCB Back: View
 
 ![USB Port Tester Back](pictures/USB_Port_Tester_Back_bw.png)
 ----------
