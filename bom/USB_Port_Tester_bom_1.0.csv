@@ -1,0 +1,5 @@
+Component,References,MPN,Value,Footprint,Quantity Per PCB,Datasheet
+1,D1,LTST-C150TBKT,Blue,LED_1206_3216Metric,1,http://optoelectronics.liteon.com/upload/download/DS22-2000-026/LTST-C150TBKT(0630).pdf
+2,D3,LTST-C21TGKT,Green,LED_1206_3216Metric,1,http://optoelectronics.liteon.com/upload/download/DS22-2008-0210/LTST-C21TGKT(updated).pdf
+3,D2,LTST-C230KRKT,Red,LED_1206_3216Metric,1,https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KRKT.pdf
+4,R1 R2,RC1206JR-071KL,1K,R_1206_3216Metric,2,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf
